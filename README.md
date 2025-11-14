@@ -1,7 +1,7 @@
 
 # UX/UI Designer & Developer Stewart Orr
 
-![Stewart Orr](https://www.stewartorr.co.uk/assets/images/social-default.png)
+![Stewart Orr](logo.png)
 
 ## Hi there 👋
 
